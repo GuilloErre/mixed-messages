@@ -8,7 +8,7 @@ This program is made of vanilla Javascript so when downloaded it's fine to run w
 ## Functionality
 This **mixed messages** in particular runs through arrays of words to get each of them to form a title for a metal song.
 To add more variety to the titles just add a *verb* into the <firstWordArray> array, *adverb* into <secondWordArray>, *preposition* into <thirdWordArray>,
-*adjective* into <fourthWordArray> and *noun* into <fifthWordArray>.
+*adjective* into <fourthWordArray> and *noun* into [fifthWordArray].
 
 ## More
 The original idea (no idea if this is from even before) was inspired from the YouTube video of SteveT (Steve Terreberry) "How To Be POWER METAL".
